@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Brazilian 🇧🇷 Software Engineer currently building and scaling web applications to level up the health tech industry in Germany at one of the fastest-growing startup in Berlin 🇩🇪.
+I'm a Brazilian 🇧🇷 Software Engineer.
 
 On my spare time I'm building a language learning app so maybe I can learn German.
 
