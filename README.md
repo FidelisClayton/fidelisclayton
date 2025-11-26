@@ -2,8 +2,6 @@
 
 I'm a Brazilian 🇧🇷 Software Engineer.
 
-On my spare time I'm building a language learning app so maybe I can learn German.
-
 #### Languages and Tools
 
 - <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript
